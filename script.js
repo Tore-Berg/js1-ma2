@@ -46,7 +46,7 @@ dropdown.onchange = function() {
 }
 
 
-//Question 4 DONE
+//Question 4
 
 const message = document.querySelector(".input");
 const characterCount = document.querySelector(".char-count");
@@ -61,7 +61,7 @@ message.onkeyup = function() {
 
 }
 
-//Question 5 DONE
+//Question 5
 
 const bodyHighlight = document.querySelector("body");
 
